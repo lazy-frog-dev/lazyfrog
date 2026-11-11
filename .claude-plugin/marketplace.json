@@ -1,0 +1,14 @@
+{
+  "name": "lazyfrog",
+  "description": "LazyFrog's plugin: the LazyFrog connector and the skills that teach your AI to build, host and publish web apps on it.",
+  "owner": {
+    "name": "LazyFrog"
+  },
+  "plugins": [
+    {
+      "name": "lazyfrog",
+      "source": "./",
+      "description": "Build, host and publish real web apps with your own AI: a project with its own database and preview, git push to update it, checks, fixes without a redesign, and going live on your own domain."
+    }
+  ]
+}

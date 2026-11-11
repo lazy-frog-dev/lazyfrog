@@ -18,6 +18,19 @@ This plugin adds the LazyFrog connector and six skills that teach your AI how to
 | fix-it | Something is broken or looks wrong, and you want it fixed without a redesign. |
 | enter-lf-games | You built a game and want to enter it in LF Games, LazyFrog's yearly game jam. |
 
+## Install
+
+In Claude Code:
+
+```
+/plugin marketplace add lazy-frog-dev/lazyfrog
+/plugin install lazyfrog@lazyfrog
+```
+
+Or in a terminal: `claude plugin marketplace add lazy-frog-dev/lazyfrog`, then
+`claude plugin install lazyfrog@lazyfrog`. For Claude, Claude Desktop, ChatGPT and Codex, connect
+LazyFrog as a connector instead: [lazyfrog.dev/connect](https://lazyfrog.dev/connect).
+
 ## Use it
 
 1. Install the plugin, then connect LazyFrog when your AI app asks (or from the plugin's
