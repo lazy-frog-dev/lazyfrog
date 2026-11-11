@@ -1,0 +1,12 @@
+{
+  "name": "lazyfrog",
+  "displayName": "LazyFrog",
+  "version": "1.1.0",
+  "description": "Build, host and publish real web apps with your own AI: turn a prototype from the chat into a project with its own database and preview, update it from a checkout with git push, check how it runs, fix what's broken without a redesign, and go live on your own domain.",
+  "author": { "name": "LazyFrog", "url": "https://lazyfrog.dev" },
+  "homepage": "https://lazyfrog.dev/docs",
+  "privacyPolicyUrl": "https://lazyfrog.dev/legal/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "license": "MIT",
+  "keywords": ["hosting", "web apps", "deploy", "database", "preview", "domains"]
+}
