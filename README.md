@@ -1,13 +1,30 @@
 # LazyFrog
 
-Build, host and publish real web apps with the AI you already use. LazyFrog gives each app a
-project of its own: the code in a private workspace, a database, files, a preview address to try
-it on, a public address when you publish, and your own domain on a paid plan. You can export all
-of it at any time.
+**Your AI builds the app. LazyFrog gives it a home.**
 
-This plugin adds the LazyFrog connector and six skills that teach your AI how to work with it.
+You can already ask Claude or ChatGPT to make a website or an app. The hard part comes after:
+where does it run, where is its data kept, and how do other people use it? LazyFrog answers that
+without you leaving the chat.
 
-## What it does
+## How it works
+
+1. **Connect LazyFrog to your AI once.** Claude, ChatGPT, Claude Code or Codex: one sign-in, no
+   keys to copy.
+2. **Say what you want.** "Make a booking page for my yoga studio." Your AI builds it on LazyFrog,
+   with a real database, and gives you a preview link to open on your phone while you talk.
+3. **Say "publish it".** It goes live at its own address, or on your own domain. Ask for changes
+   any time; every change can be undone.
+
+No servers, no hosting dashboard, no config files. If you're a developer, it's all real
+underneath: any language or framework your AI can write (Node, Python, PHP, Go, Ruby, Java and
+more), a real database, git, and a full export whenever you want it.
+
+**Free to try.** Building and previewing are free; going live starts at $9 a month.
+[See what people build →](https://lazyfrog.dev/blueprints)
+
+## What this plugin adds
+
+The LazyFrog connector, plus six skills that guide your AI through the common jobs:
 
 | Skill | When it helps |
 |---|---|
